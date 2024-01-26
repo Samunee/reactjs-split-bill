@@ -12,15 +12,21 @@ const initialFriends = [
   },
   {
     id: 933372,
-    name: "Sung Jin Wo",
+    name: "Praz Teguh",
     image: "https://i.pravatar.cc/48?u=933372",
-    balance: 20,
+    balance: 25,
   },
   {
     id: 499476,
-    name: "BJ",
+    name: "Pesulap Merah",
     image: "https://i.pravatar.cc/48?u=499476",
-    balance: 0,
+    balance: 100,
+  },
+  {
+    id: 199346,
+    name: "Elon Musk",
+    image: "https://i.pravatar.cc/48?u=499476",
+    balance: 3112000000000,
   },
 ];
 
